@@ -2,3 +2,4 @@
 # We add packages here as each day actually requires them - not before.
 python-dotenv==1.0.1
 pytest==8.3.3
+requests==2.32.3
