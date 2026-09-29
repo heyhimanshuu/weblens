@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env / secrets
+.env
+
+# Data / vector store artifacts
+data/*
+!data/.gitkeep
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Test/coverage
+.pytest_cache/
+.coverage

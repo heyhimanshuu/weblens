@@ -1,0 +1,4 @@
+# Day 1: only what we need right now.
+# We add packages here as each day actually requires them - not before.
+python-dotenv==1.0.1
+pytest==8.3.3
